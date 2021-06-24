@@ -15,4 +15,4 @@
 - 📫 How to reach me:
   - [Keybase](https://keybase.io/lucascantor)
 - 😄 Pronouns:
-  - [he/him/his](https://www.mypronouns.org/)
+  - [he/him/his](https://www.mypronouns.org/he-him)
