@@ -13,6 +13,7 @@
   - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment-reference-macos/welcome/web)
   - 🛃 [Zero-Trust and Contextual Access](https://www.okta.com/identity-101/building-zero-trust-networks/)
 - 📫 How to reach me:
+  - [Mastodon](https://mastodon.social/@lucascantor)
   - [Keybase](https://keybase.io/lucascantor)
 - 😄 Pronouns:
   - [he/him/his](https://www.mypronouns.org/he-him)
