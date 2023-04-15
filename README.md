@@ -1,15 +1,15 @@
 ### Hi there 👋🏼
 
 - 🛠️ I’m currently working on
-  - 👥 [Identity and Access Management](https://www.okta.com/identity-101/identity-and-access-management/)
   - 📒 [Identity Governance and Administration](https://www.okta.com/identity-101/identity-governance/)
-  - 🏗️ [Infrastructure as Code](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
-  - ⚙️ [Workato](https://workato.com/)
+  - ⚙️ [No-Code as Code (CI/CD Pipelines for Approachable No-Code Business Process Automation)](https://www.nocode.tech/what-is-no-code)
 - 🤔 I’m looking to learn about
   - 🔏 [Privileged Access Management](https://www.okta.com/identity-101/how-to-set-up-privileged-access-management/)
 - 💬 Ask me about:
+  - 🛃 [Zero-Trust and Context-Aware Authentication](https://www.okta.com/identity-101/building-zero-trust-networks/)
+  - 🏗️ [Infrastructure as Code](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
+  - 👥 [Identity and Access Management](https://www.okta.com/identity-101/identity-and-access-management/)
   - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment-reference-macos/welcome/web)
-  - 🛃 [Zero-Trust and Contextual Access](https://www.okta.com/identity-101/building-zero-trust-networks/)
 - 📫 How to reach me:
   - 🐘 [Mastodon](https://infosec.exchange/@lucas)
 - 😄 Pronouns:
