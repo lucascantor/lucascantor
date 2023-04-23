@@ -2,7 +2,7 @@
 
 - 🛠️ I’m currently working on
   - 📒 [Identity Governance and Administration](https://www.okta.com/identity-101/identity-governance/)
-  - ⚙️ [No-Code as Code (CI/CD Pipelines for Approachable No-Code Business Process Automation)](https://www.nocode.tech/what-is-no-code)
+  - ⚙️ [No-Code as Code (CI/CD Orchestration of No-Code Business Process Automation)](https://www.nocode.tech/what-is-no-code)
 - 🤔 I’m looking to learn about
   - 🔏 [Privileged Access Management](https://www.okta.com/identity-101/how-to-set-up-privileged-access-management/)
 - 💬 Ask me about:
