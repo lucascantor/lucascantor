@@ -10,7 +10,9 @@
   - 🏗️ [Infrastructure as Code](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
   - 👥 [Identity and Access Management](https://www.okta.com/identity-101/identity-and-access-management/)
   - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment-reference-macos/welcome/web)
-- 📫 How to reach me:
+- 🌐 Where to find me:
   - 🐘 [Mastodon](https://infosec.exchange/@lucas)
+  - 📷 [Glass](https://glass.photo/lucascantor)
+  - 🎬 [Letterboxd](https://letterboxd.com/lucascantor)
 - 😄 Pronouns:
   - 🧔🏻‍♂️ [he/him/his](https://www.mypronouns.org/he-him)
