@@ -11,8 +11,8 @@
   - 👥 [Identity and Access Management](https://www.okta.com/identity-101/identity-and-access-management/)
   - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment-reference-macos/welcome/web)
 - 🌐 Where to find me:
-  - 🐘 [Mastodon](https://infosec.exchange/@lucas)
-  - 📷 [Glass](https://glass.photo/lucascantor)
-  - 🎬 [Letterboxd](https://letterboxd.com/lucascantor)
-- 😄 Pronouns:
+  - 🐘 <a href="https://infosec.exchange/@lucas" rel="me">Mastodon</a>
+  - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
+  - 🎬 <a href="https://letterboxd.com/lucascantor" rel="me">Letterboxd</a>
+- 😄 My pronouns:
   - 🧔🏻‍♂️ [he/him/his](https://www.mypronouns.org/he-him)
