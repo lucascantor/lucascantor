@@ -1,4 +1,4 @@
-### Hi there 👋🏼
+### Hey there 👋🏼
 
 - 🛠️ I’m currently working on
   - 📒 [Identity Governance and Administration](https://www.okta.com/identity-101/identity-governance/)
