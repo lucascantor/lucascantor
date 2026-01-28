@@ -15,3 +15,7 @@
   - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
   - 🎬 <a href="https://letterboxd.com/lucascantor" rel="me">Letterboxd</a>
   - 📽️ <a href="https://spectra.video/a/lucas" rel="me">PeerTube</a>
+
+## License
+
+See this repo's license [here](./LICENSE).
