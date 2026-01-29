@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./assets/favicon.svg" alt="" width="192" align="center" />
-    <h1 align="center">Serenity Waits for No One</h1>
+    <h1 align="center">Serenity Won't Wait</h1>
 </div>
 
 # Hey there 👋🏼
