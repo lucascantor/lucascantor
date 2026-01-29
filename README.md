@@ -13,7 +13,7 @@
   - 🛃 [Zero-Trust and Context-Aware Authentication](https://www.okta.com/identity-101/building-zero-trust-networks/)
   - 🏗️ [Infrastructure as Code](https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code)
   - 👥 [Identity and Access Management](https://www.okta.com/identity-101/identity-and-access-management/)
-  - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment-reference-macos/welcome/web)
+  - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment/)
   - ⚙️ [No-Code as Code (CI/CD Orchestration of No-Code Business Process Automation)](https://www.nocode.tech/what-is-no-code)
 - 🌐 Find me on:
   - 🐘 <a href="https://infosec.exchange/@lucas" rel="me">Mastodon</a>
