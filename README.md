@@ -20,7 +20,7 @@
   - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
   - 🎬 <a href="https://letterboxd.com/lucascantor" rel="me">Letterboxd</a>
   - 📽️ <a href="https://spectra.video/a/lucas" rel="me">PeerTube</a>
-- 🔐 Verifications:
+- 🪪 Verify me via:
   - [iMessage](https://support.apple.com/en-us/118246): `APKTIDBQMqAzKbqzoEiKJELGfQbXply8tCeNTrAHLdhwaJWGLdxg`
 
 ## License
