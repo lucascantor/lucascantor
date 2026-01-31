@@ -23,7 +23,7 @@
   - 📽️ <a href="https://spectra.video/a/lucas" rel="me">PeerTube</a>
   - 😂 <a href="https://lucas.omg.lol" rel="me">omg.lol</a>
 - 🪪 You should verify me on:
-  - [iMessage](https://support.apple.com/en-us/118246): `APKTIDBQMqAzKbqzoEiKJELGfQbXply8tCeNTrAHLdhwaJWGLdxg`
+  - 💬 [iMessage](https://support.apple.com/en-us/118246): `APKTIDBQMqAzKbqzoEiKJELGfQbXply8tCeNTrAHLdhwaJWGLdxg`
 
 ## License
 
