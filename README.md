@@ -17,7 +17,7 @@
   - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment/)
   - ⚙️ [No-Code as Code (CI/CD Orchestration of No-Code Business Process Automation)](https://www.nocode.tech/what-is-no-code)
 - 🌐 You can find me on:
-  - 🐘 <a href="https://infosec.exchange/@lucas" rel="me">Mastodon</a>
+  - 🐘 <a href="https://social.lol/@lucas" rel="me">Mastodon</a>
   - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
   - 🎬 <a href="https://letterboxd.com/lucascantor" rel="me">Letterboxd</a>
   - 📽️ <a href="https://spectra.video/a/lucas" rel="me">PeerTube</a>
