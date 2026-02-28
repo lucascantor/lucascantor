@@ -12,11 +12,11 @@
 - 🤔 I’m looking to learn about:
   - 📡 [ActivityPub](https://activitypub.rocks)
 - ℹ️ You can ask me about:
-  - 👥 [Identity and Access Management](https://www.okta.com/identity-101/identity-and-access-management/)
-  - 🛃 [Zero-Trust and Context-Aware Auth](https://www.okta.com/identity-101/building-zero-trust-networks/)
-  - 👩‍💻 [Endpoint and Mobile Device Management](https://support.apple.com/guide/deployment/)
-  - 🏗️ [Infrastructure as Code](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code)
-  - 🪄 [No-Code](https://www.nocode.tech/what-is-no-code)
+  - 👥 [Identity and Access Management](https://en.wikipedia.org/wiki/Identity_and_access_management)
+  - 🛃 [Zero-Trust and Context-Aware Auth](https://en.wikipedia.org/wiki/Zero_trust_architecture)
+  - 👩‍💻 [Endpoint and Mobile Device Management](https://en.wikipedia.org/wiki/Mobile_device_management)
+  - 🏗️ [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
+  - 🪄 [No-Code](https://en.wikipedia.org/wiki/No-code_development_platform)
 - 🌐 You can find me on:
   - 🐘 <a href="https://infosec.exchange/@lucas" rel="me">Mastodon</a>
   - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
