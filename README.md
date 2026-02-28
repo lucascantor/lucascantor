@@ -22,7 +22,7 @@
   - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
   - 🎬 <a href="https://letterboxd.com/lucascantor" rel="me">Letterboxd</a>
   - 📽️ <a href="https://spectra.video/a/lucas" rel="me">PeerTube</a>
-  - 😂 <a href="https://lucas.omg.lol" rel="me">omg.lol</a>
+  - 😂 <a href="https://home.omg.lol/lookup/lucas" rel="me">omg.lol</a>
 - 🪪 You should verify me on:
   - 💬 [iMessage](https://home.omg.lol/keychain/lucas/imessage)
 
