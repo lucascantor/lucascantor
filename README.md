@@ -18,7 +18,7 @@
   - 🏗️ [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code)
   - 🪄 [No-Code](https://en.wikipedia.org/wiki/No-code_development_platform)
 - 🌐 You can find me on:
-  - 🐘 <a href="https://infosec.exchange/@lucas" rel="me">Mastodon</a>
+  - 🐘 <a href="https://social.lol/@lucas" rel="me">Mastodon</a>
   - 📷 <a href="https://glass.photo/lucascantor" rel="me">Glass</a>
   - 🎬 <a href="https://letterboxd.com/lucascantor" rel="me">Letterboxd</a>
   - 📽️ <a href="https://spectra.video/a/lucas" rel="me">PeerTube</a>
